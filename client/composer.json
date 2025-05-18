@@ -1,0 +1,15 @@
+{
+    "name": "ahmedashrafmahmoud/client",
+    "autoload": {
+        "psr-4": {
+            "Ahmedashrafmahmoud\\Client\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ahmedAshrafDTU",
+            "email": "118565813+ahmedAshrafDTU@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
